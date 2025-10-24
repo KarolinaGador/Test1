@@ -1,0 +1,14 @@
+{
+    "portal_społecznościowy":"facebook",
+    "użytkownicy": 3000000,
+    "założyciel": "Mark_Zuckerberg",
+    "rok_założenia": 2004,
+    "liczba_postow_na_dzien": 3.7,
+    "czy_uzależniający": false,
+    "sławne_profile(obserwatorzy)":{
+        "Cristiano_Ronaldo": 4000000,
+        "FC_Barcelona": 3600000,
+        "Shakira": 6300000
+    },
+    "rodzaje_postów": ["zdjecia","filmy","tekst","muzyka","linki"]
+}
