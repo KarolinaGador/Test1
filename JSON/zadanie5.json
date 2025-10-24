@@ -1,0 +1,49 @@
+[
+    {
+        "portal_społecznościowu": "facebook",
+        "użytkownicy": 3000000,
+        "czy_nowy": true,
+        "założyciel": "Mark_Zuckerberg",
+        "rok_założenia": 2004
+    },
+
+    {
+        "portal_społecznościowu": "tiktok",
+        "użytkownicy": 500000,
+        "czy_nowy": true,
+        "założyciel": "byta_dance",
+        "rok_założenia": 2016
+    },
+
+    {
+        "portal_społecznościowu": "intagram",
+        "użytkownicy": 4600000,
+        "czy_nowy": false,
+        "założyciel": "Kevina Systroma",
+        "rok_założenia": 2010
+    },
+
+    {
+        "portal_społecznościowu": "gadugadu",
+        "użytkownicy": 400000,
+        "czy_nowy": false,
+        "założyciel": "Łukasz Foltyn",
+        "rok_założenia": 2010
+    },
+
+    {
+        "portal_społecznościowu": "youtube",
+        "użytkownicy": 2500000,
+        "czy_nowy": false,
+        "założyciel": "Chada_Hurleya_Steve'a_Chena_Jaweda_Karima.",
+        "rok_założenia": 2005
+    },
+
+    {
+        "portal_społecznościowu": "snapczat",
+        "użytkownicy": 800000,
+        "czy_nowy": false,
+        "założyciel": "Snap Inc",
+        "rok_założenia": 2011
+    }
+]
