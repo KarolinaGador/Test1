@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PortaleSpolecznosciowe>
+
+<portal typ="społecznościowy" mobilny="tak" >Facebook</portal>
+<RokPowstania dzien="14" miesiac="luty">2004</RokPowstania>
+<IloscUzytkownikow jednostka="miliard" typ="AktywniUzytkownicy">3,07</IloscUzytkownikow>
+<Popularność data="2024" miejsce="calyswiat" >3 miejsce</Popularność>
+
+<portal typ="społecznościowy" mobilny="tak">Instagram</portal>
+<RokPowstania dzien="1" miesiac="lipiec">2010</RokPowstania>
+<IloscUzytkownikow jednostka="miliard" typ="AktywniUzytkownicy">3</IloscUzytkownikow>
+<Popularność data="2024" miejsce="calyswiat">1 miejsce</Popularność>
+
+<portal typ="społecznościowy" mobilny="tak">TikTok</portal>
+<RokPowstania dzien="18" miesiac="styczen">2016</RokPowstania>
+<IloscUzytkownikow jednostka="miliard" typ="AktywniUzytkownicy">6</IloscUzytkownikow>
+<Popularność data="2024" miejsce="calyswiat">2 mijsce</Popularność>
+
+<portal typ="społecznościowy" mobilny="tak">WhatsUpp</portal>
+<RokPowstania dzien="25" miesiac="maj">2009</RokPowstania>
+<IloscUzytkownikow jednostka="miliard" typ="AktywniUzytkownicy">3</IloscUzytkownikow>
+<Popularność data="2024" miejsce="calyswiat">4 miejsce</Popularność>
+
+<portal typ="społecznościowy" mobilny="tak">Snapchat</portal>
+<RokPowstania dzien="21" miesiac="luty">2011</RokPowstania>
+<IloscUzytkownikow jednostka="milion" typ="AktywniUzytkownicy">800</IloscUzytkownikow>
+<Popularność data="2024" miejsce="calyswiat">5 miejsce</Popularność>
+
+<portal typ="społecznościowy" mobilny="tak">YouTube</portal>
+<RokPowstania dzien="17" miesiac="czerwiec">2005</RokPowstania>
+<IloscUzytkownikow jednostka="miliard" typ="AktywniUzytkownicy">2,5</IloscUzytkownikow>
+<Popularność data="2024" miejsce="calyswiat">6 miejsce</Popularność>
+
+</PortaleSpolecznosciowe>
